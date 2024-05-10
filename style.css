@@ -13,10 +13,10 @@ body{
 }
 
 h1 span{
-    color: var(--verde);
+    color: var(--verde)
 }
 
 #dias_restantes{
-    color: var(--verde)
+    color: var(--verde);
     font: size 50px;
 }
